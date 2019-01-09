@@ -67,4 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-```git push https://'chrismetz09':'dif9ip09'@github.com/chrismetz09/chris-react.git```
+```git push https://'chrismetz09':'xxxxxxx'@github.com/chrismetz09/chris-react.git```
